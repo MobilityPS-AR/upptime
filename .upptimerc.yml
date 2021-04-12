@@ -38,8 +38,8 @@ status-website:
 #  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
 #  introMessage: Welcome to our status page, here, you can check out the status of our services in real-time.
   navbar:
-    - title: Service status
-      href: /
+#    - title: Service status
+#      href: /
 #    - title: GitHub
 #      href: https://github.com/$OWNER/$REPO
 
