@@ -1,0 +1,47 @@
+owner: MobilityPS-AR
+repo: upptime
+
+sites:
+  - name: Brokers API
+    url: $BROKERS_API
+    expectedStatusCodes:
+      - 403
+  - name: System (main site)
+    url: $SYSTEM_URL
+  - name: API (v1)
+    url: $SYSTEM_API
+    expectedStatusCodes:
+      - 404
+  - name: Alternative API (v2)
+    url: $SYSTEM_API_ALT
+    expectedStatusCodes:
+      - 404
+  - name: Main public provider
+    url: $MAIN_PUBLIC_PROVIDER_URL
+  - name: Secondary public provider
+    url: $SECONDARY_PUBLIC_PROVIDER_URL
+  - name: Testing environment (system)
+    url: $TESTING_SYSTEM_URL
+  - name: Testing environment (API)
+    url: $TESTING_API
+    expectedStatusCodes:
+      - 404
+
+assignees: # Users to assign downtime issues
+  - mobilityps
+
+status-website:
+  cname: status.mobilityps.com
+  logoUrl: $SYSTEM_URL/img/logo_light.png
+  theme: dark
+  name: Service status
+#  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+#  introMessage: Welcome to our status page, here, you can check out the status of our services in real-time.
+  navbar:
+    - title: Service status
+      href: /
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
