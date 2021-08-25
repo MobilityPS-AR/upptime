@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 635,
     "timeDay": 1012,
-    "timeWeek": 1066,
+    "timeWeek": 1188,
     "timeMonth": 1200,
     "timeYear": 635,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 784,
     "timeDay": 203,
-    "timeWeek": 1019,
+    "timeWeek": 992,
     "timeMonth": 757,
     "timeYear": 784,
     "dailyMinutesDown": {}
@@ -58,17 +58,17 @@
     "url": "$SYSTEM_API_ALT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alternative-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 351,
+    "time": 350,
     "timeDay": 51,
-    "timeWeek": 99,
-    "timeMonth": 233,
-    "timeYear": 351,
+    "timeWeek": 96,
+    "timeMonth": 231,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   },
   {
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 840,
     "timeDay": 584,
-    "timeWeek": 530,
+    "timeWeek": 532,
     "timeMonth": 668,
     "timeYear": 840,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 759,
     "timeDay": 745,
-    "timeWeek": 791,
+    "timeWeek": 801,
     "timeMonth": 762,
     "timeYear": 759,
     "dailyMinutesDown": {}
