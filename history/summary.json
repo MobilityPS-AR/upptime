@@ -13,7 +13,7 @@
     "time": 270,
     "timeDay": 160,
     "timeWeek": 160,
-    "timeMonth": 235,
+    "timeMonth": 239,
     "timeYear": 270,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 623,
     "timeDay": 162,
     "timeWeek": 432,
-    "timeMonth": 1174,
+    "timeMonth": 1204,
     "timeYear": 623,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 809,
     "timeDay": 207,
     "timeWeek": 1145,
-    "timeMonth": 837,
+    "timeMonth": 856,
     "timeYear": 809,
     "dailyMinutesDown": {}
   },
@@ -58,17 +58,17 @@
     "url": "$SYSTEM_API_ALT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alternative-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
+    "time": 271,
     "timeDay": 40,
-    "timeWeek": 52,
-    "timeMonth": 148,
-    "timeYear": 272,
+    "timeWeek": 51,
+    "timeMonth": 147,
+    "timeYear": 271,
     "dailyMinutesDown": {}
   },
   {
@@ -85,7 +85,7 @@
     "time": 833,
     "timeDay": 660,
     "timeWeek": 531,
-    "timeMonth": 663,
+    "timeMonth": 643,
     "timeYear": 833,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 759,
     "timeDay": 716,
     "timeWeek": 828,
-    "timeMonth": 767,
+    "timeMonth": 768,
     "timeYear": 759,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 997,
     "timeDay": 2739,
     "timeWeek": 875,
-    "timeMonth": 1055,
+    "timeMonth": 1085,
     "timeYear": 997,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 1618,
     "timeDay": 126,
     "timeWeek": 1420,
-    "timeMonth": 1294,
+    "timeMonth": 1331,
     "timeYear": 1618,
     "dailyMinutesDown": {}
   }
