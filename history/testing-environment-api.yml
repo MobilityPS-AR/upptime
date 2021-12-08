@@ -1,7 +1,7 @@
 url: $TESTING_API
-status: down
-code: 200
-responseTime: 3455
-lastUpdated: 2021-12-08T18:14:16.211Z
+status: up
+code: 404
+responseTime: 13788
+lastUpdated: 2021-12-08T18:41:34.254Z
 startTime: Mon Apr 12 2021 15:25:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
