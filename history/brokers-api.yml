@@ -1,7 +1,7 @@
 url: $BROKERS_API
-status: down
-code: 502
-responseTime: 361
-lastUpdated: 2021-12-09T16:50:04.825Z
+status: up
+code: 403
+responseTime: 130
+lastUpdated: 2021-12-09T17:54:14.827Z
 startTime: Mon Apr 12 2021 15:25:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
