@@ -112,7 +112,7 @@
     "url": "$TESTING_SYSTEM_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "testing-environment-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
