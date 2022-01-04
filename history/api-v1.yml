@@ -1,7 +1,7 @@
 url: $SYSTEM_API
-status: up
-code: 404
-responseTime: 1117
-lastUpdated: 2022-01-03T23:17:55.978Z
+status: down
+code: 502
+responseTime: 17969
+lastUpdated: 2022-01-04T16:20:05.747Z
 startTime: Mon Apr 12 2021 15:25:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
