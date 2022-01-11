@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 606,
     "timeDay": 1041,
-    "timeWeek": 649,
+    "timeWeek": 579,
     "timeMonth": 922,
     "timeYear": 606,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 872,
     "timeDay": 122,
-    "timeWeek": 2349,
+    "timeWeek": 422,
     "timeMonth": 1394,
     "timeYear": 872,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 5111,
-    "timeWeek": 1055,
+    "timeWeek": 1199,
     "timeMonth": 687,
     "timeYear": 319,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 737,
     "timeDay": 493,
-    "timeWeek": 540,
+    "timeWeek": 605,
     "timeMonth": 578,
     "timeYear": 737,
     "dailyMinutesDown": {}
@@ -112,7 +112,7 @@
     "url": "$TESTING_SYSTEM_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "testing-environment-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 1466,
     "timeDay": 119,
     "timeWeek": 1242,
-    "timeMonth": 2210,
+    "timeMonth": 1238,
     "timeYear": 1466,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 2219,
     "timeDay": 994,
     "timeWeek": 2340,
-    "timeMonth": 4104,
+    "timeMonth": 4012,
     "timeYear": 2219,
     "dailyMinutesDown": {}
   }
