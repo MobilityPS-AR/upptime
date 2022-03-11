@@ -1,7 +1,7 @@
 url: $MAIN_PUBLIC_PROVIDER_URL
-status: down
-code: 502
-responseTime: 392
-lastUpdated: 2022-03-11T15:19:00.367Z
+status: up
+code: 200
+responseTime: 1180
+lastUpdated: 2022-03-11T15:42:15.330Z
 startTime: Mon Apr 12 2021 15:25:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
