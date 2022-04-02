@@ -1,7 +1,7 @@
 url: $BROKERS_API
 status: up
 code: 403
-responseTime: 117
-lastUpdated: 2022-04-01T23:18:11.279Z
+responseTime: 85
+lastUpdated: 2022-04-02T23:17:03.243Z
 startTime: Mon Apr 12 2021 15:25:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
