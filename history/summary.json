@@ -13,7 +13,7 @@
     "time": 299,
     "timeDay": 85,
     "timeWeek": 141,
-    "timeMonth": 764,
+    "timeMonth": 181,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "$SYSTEM_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "system-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
