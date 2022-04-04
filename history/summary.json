@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 298,
     "timeDay": 94,
-    "timeWeek": 143,
+    "timeWeek": 147,
     "timeMonth": 180,
     "timeYear": 298,
     "dailyMinutesDown": {}
@@ -22,17 +22,17 @@
     "url": "$SYSTEM_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "system-main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 0,
-    "timeWeek": 303,
-    "timeMonth": 450,
-    "timeYear": 616,
+    "time": 615,
+    "timeDay": 205,
+    "timeWeek": 305,
+    "timeMonth": 443,
+    "timeYear": 615,
     "dailyMinutesDown": {}
   },
   {
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 861,
     "timeDay": 1054,
-    "timeWeek": 1030,
+    "timeWeek": 1028,
     "timeMonth": 937,
     "timeYear": 861,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 286,
     "timeDay": 1209,
-    "timeWeek": 893,
+    "timeWeek": 987,
     "timeMonth": 779,
     "timeYear": 286,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 734,
     "timeDay": 635,
-    "timeWeek": 734,
+    "timeWeek": 764,
     "timeMonth": 723,
     "timeYear": 734,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1041,
     "timeDay": 1114,
-    "timeWeek": 3549,
+    "timeWeek": 3564,
     "timeMonth": 2199,
     "timeYear": 1041,
     "dailyMinutesDown": {}
