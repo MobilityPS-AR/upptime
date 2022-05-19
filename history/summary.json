@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 283,
     "timeDay": 167,
-    "timeWeek": 181,
+    "timeWeek": 186,
     "timeMonth": 148,
     "timeYear": 285,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 603,
     "timeDay": 316,
-    "timeWeek": 647,
+    "timeWeek": 575,
     "timeMonth": 439,
     "timeYear": 604,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "timeDay": 5329,
     "timeWeek": 1645,
     "timeMonth": 757,
-    "timeYear": 829,
+    "timeYear": 831,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 82,
     "timeWeek": 607,
     "timeMonth": 358,
-    "timeYear": 294,
+    "timeYear": 295,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 789,
     "timeWeek": 792,
     "timeMonth": 576,
-    "timeYear": 704,
+    "timeYear": 665,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 1239,
     "timeWeek": 1144,
     "timeMonth": 1041,
-    "timeYear": 1073,
+    "timeYear": 1075,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1573,
+    "timeYear": 1575,
     "dailyMinutesDown": {}
   },
   {
@@ -130,17 +130,17 @@
     "url": "$TESTING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "testing-environment-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1995,
-    "timeDay": 3676,
-    "timeWeek": 1618,
-    "timeMonth": 1310,
-    "timeYear": 2035,
+    "time": 1991,
+    "timeDay": 2954,
+    "timeWeek": 1547,
+    "timeMonth": 1284,
+    "timeYear": 2034,
     "dailyMinutesDown": {}
   }
 ]
