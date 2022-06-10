@@ -130,17 +130,17 @@
     "url": "$TESTING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "testing-environment-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1926,
-    "timeDay": 1204,
-    "timeWeek": 1664,
-    "timeMonth": 1587,
-    "timeYear": 1932,
+    "time": 1923,
+    "timeDay": 961,
+    "timeWeek": 1629,
+    "timeMonth": 1576,
+    "timeYear": 1928,
     "dailyMinutesDown": {}
   }
 ]
