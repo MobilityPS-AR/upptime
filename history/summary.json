@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 413,
     "timeDay": 167,
-    "timeWeek": 1253,
+    "timeWeek": 1103,
     "timeMonth": 1219,
     "timeYear": 412,
     "dailyMinutesDown": {}
@@ -130,7 +130,7 @@
     "url": "$TESTING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "testing-environment-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -139,7 +139,7 @@
     "time": 1918,
     "timeDay": 586,
     "timeWeek": 1948,
-    "timeMonth": 1569,
+    "timeMonth": 1586,
     "timeYear": 1928,
     "dailyMinutesDown": {}
   }
