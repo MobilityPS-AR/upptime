@@ -40,7 +40,7 @@
     "url": "$SYSTEM_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -67,7 +67,7 @@
     "time": 429,
     "timeDay": 4627,
     "timeWeek": 1841,
-    "timeMonth": 1309,
+    "timeMonth": 1261,
     "timeYear": 430,
     "dailyMinutesDown": {}
   },
@@ -137,8 +137,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1920,
-    "timeDay": 2766,
-    "timeWeek": 1890,
+    "timeDay": 2248,
+    "timeWeek": 1936,
     "timeMonth": 1701,
     "timeYear": 1936,
     "dailyMinutesDown": {}
