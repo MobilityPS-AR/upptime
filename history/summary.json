@@ -58,17 +58,17 @@
     "url": "$SYSTEM_API_ALT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alternative-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 868,
-    "timeWeek": 1063,
-    "timeMonth": 1378,
-    "timeYear": 696,
+    "time": 678,
+    "timeDay": 1019,
+    "timeWeek": 1087,
+    "timeMonth": 1382,
+    "timeYear": 698,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 1897,
     "timeDay": 2130,
     "timeWeek": 2094,
-    "timeMonth": 1870,
+    "timeMonth": 1882,
     "timeYear": 1923,
     "dailyMinutesDown": {}
   }
