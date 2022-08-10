@@ -32,7 +32,7 @@
     "timeDay": 170,
     "timeWeek": 213,
     "timeMonth": 884,
-    "timeYear": 631,
+    "timeYear": 632,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,17 @@
     "url": "$SYSTEM_API_ALT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alternative-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 830,
+    "time": 831,
     "timeDay": 2015,
-    "timeWeek": 1700,
+    "timeWeek": 1714,
     "timeMonth": 1341,
-    "timeYear": 858,
+    "timeYear": 859,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1760,
+    "timeYear": 1768,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 2182,
     "timeWeek": 1321,
     "timeMonth": 1468,
-    "timeYear": 1827,
+    "timeYear": 1826,
     "dailyMinutesDown": {}
   }
 ]
