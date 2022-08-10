@@ -58,7 +58,7 @@
     "url": "$SYSTEM_API_ALT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alternative-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 819,
     "timeDay": 1657,
-    "timeWeek": 1620,
-    "timeMonth": 1315,
+    "timeWeek": 1587,
+    "timeMonth": 1317,
     "timeYear": 848,
     "dailyMinutesDown": {}
   },
@@ -130,7 +130,7 @@
     "url": "$TESTING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "testing-environment-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -139,7 +139,7 @@
     "time": 1810,
     "timeDay": 1972,
     "timeWeek": 1261,
-    "timeMonth": 1452,
+    "timeMonth": 1461,
     "timeYear": 1829,
     "dailyMinutesDown": {}
   }
