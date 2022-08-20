@@ -67,7 +67,7 @@
     "time": 866,
     "timeDay": 1456,
     "timeWeek": 1498,
-    "timeMonth": 1370,
+    "timeMonth": 1373,
     "timeYear": 900,
     "dailyMinutesDown": {}
   },
@@ -130,17 +130,17 @@
     "url": "$TESTING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "testing-environment-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1799,
-    "timeDay": 768,
-    "timeWeek": 1445,
-    "timeMonth": 1239,
-    "timeYear": 1815,
+    "timeDay": 659,
+    "timeWeek": 1403,
+    "timeMonth": 1238,
+    "timeYear": 1813,
     "dailyMinutesDown": {}
   }
 ]
