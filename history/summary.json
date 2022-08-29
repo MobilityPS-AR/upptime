@@ -22,7 +22,7 @@
     "url": "$SYSTEM_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "system-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,9 +66,9 @@
     "uptimeYear": "100.00%",
     "time": 951,
     "timeDay": 0,
-    "timeWeek": 1039,
-    "timeMonth": 1451,
-    "timeYear": 992,
+    "timeWeek": 1261,
+    "timeMonth": 1441,
+    "timeYear": 997,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 1778,
     "timeDay": 227,
     "timeWeek": 1301,
-    "timeMonth": 1263,
+    "timeMonth": 1272,
     "timeYear": 1807,
     "dailyMinutesDown": {}
   }
