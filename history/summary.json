@@ -4,7 +4,7 @@
     "url": "$BROKERS_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "brokers-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1223,
+    "timeYear": 1228,
     "dailyMinutesDown": {}
   },
   {
