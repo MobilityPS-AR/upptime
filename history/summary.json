@@ -4,17 +4,17 @@
     "url": "$BROKERS_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "brokers-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 200,
-    "timeWeek": 195,
-    "timeMonth": 161,
-    "timeYear": 278,
+    "timeDay": 152,
+    "timeWeek": 183,
+    "timeMonth": 160,
+    "timeYear": 277,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1228,
+    "timeYear": 1229,
     "dailyMinutesDown": {}
   },
   {
