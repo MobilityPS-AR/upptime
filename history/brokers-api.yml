@@ -1,7 +1,7 @@
 url: $BROKERS_API
 status: down
 code: 404
-responseTime: 296
-lastUpdated: 2023-03-17T23:15:26.077Z
+responseTime: 311
+lastUpdated: 2023-03-18T23:15:07.004Z
 startTime: Mon Apr 12 2021 15:25:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
